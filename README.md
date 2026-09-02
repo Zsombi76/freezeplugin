@@ -9,3 +9,5 @@ Server operators can use the command by default. Give others the **freezeplugin.
 Setup
 
 Put the compiled JAR into the server's **plugins** folder, then restart the server. After that, open **plugins/FreezePlugin/config.yml** and replace the **discord-url** value with your own Discord invite link.
+
+***Note: The freeze command can be changed to any language from the configs***
