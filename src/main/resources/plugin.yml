@@ -1,0 +1,14 @@
+name: FreezePlugin
+version: 1.0.0
+main: hu.codex.freeze.FreezePlugin
+api-version: '1.21'
+author: Codex
+commands:
+  freeze:
+    description: Játékos lefagyasztása vagy feloldása.
+    usage: /freeze <játékos>
+    permission: freezeplugin.freeze
+permissions:
+  freezeplugin.freeze:
+    description: Jogosultság a /freeze parancshoz.
+    default: op

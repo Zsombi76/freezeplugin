@@ -1,0 +1,10 @@
+# A Discord szervered meghívólinkje. A játékos erre kattinthat a freeze üzenetben.
+discord-url: "https://discord.gg/szerver"
+
+messages:
+  frozen: "&cLe lettél fagyasztva! &7Kérlek, csatlakozz a Discord voice szobába: &b"
+  unfrozen: "&aFeloldották a lefagyasztásodat. &7Most már mozoghatsz."
+  staff-frozen: "&a%player% le lett fagyasztva."
+  staff-unfrozen: "&a%player% fel lett oldva."
+  player-not-found: "&cEz a játékos nincs fent a szerveren."
+  usage: "&cHasználat: /freeze <játékos>"
